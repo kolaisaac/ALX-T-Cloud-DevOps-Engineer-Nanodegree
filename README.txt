@@ -13,6 +13,5 @@ The files included are:
 - /vendor - Bootssrap CSS framework, Font, and JavaScript libraries needed for the website to function.
 - /css - CSS files for the website.
 
-CloudFront endpoint URL for my project <a href="https://d1hol7ajk79pnk.cloudfront.net">
-
+CloudFront endpoint URL for my project <https://d1hol7ajk79pnk.cloudfront.net>
 
