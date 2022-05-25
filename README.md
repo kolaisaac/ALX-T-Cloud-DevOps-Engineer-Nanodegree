@@ -18,34 +18,28 @@ The files included are:
 ## Steps
 
 1. Creat Bucket Image
-![bucket_image](./images/Bucket-image.jpg)
+![bucket_image](images/Bucket-image.jpg)
 
 2. Set S3 Bucket to Support Hosting
-![bucket_hosting](./images/S3-Bucket-Support-Hosting.jpg)
+![bucket_hosting](images/S3-Bucket-Support-Hosting.jpg)
 
 3. Static Website Hosting
-![website_hosting](./images/Static-Website-Hosting.jpg)
+![website_hosting](images/Static-Website-Hosting.jpg)
 
 4. Bucket Poilcy
-![bucket_Poilcy](./images/Bucket-Poilcy.jpg)
+![bucket_Poilcy](images/Bucket-Poilcy.jpg)
 
 5. CloudFront Distribution
-![cloudFront_distribution](./images/CloudFront-Distribution.jpg)
+![cloudFront_distribution](images/CloudFront-Distribution.jpg)
 
 6. Distribution Domian Name
-![distribution_domian_name](./images/Distribution-Domian-Name.jpg)
+![distribution_domian_name](images/Distribution-Domian-Name.jpg)
 
 7. Bucket Name Access
-![bucket_name_access](./images/Bucket-Name-Access.jpg)
+![bucket_name_access](images/Bucket-Name-Access.jpg)
 
 8. Distribution Domian Name Access
-![distribution_domian_name_access](./images/Distribution-Domian-Name-Access.jpg)
-
-
-: <img src="" class="img-responsive" alt="portfolio img">
-: <img src="" class="img-responsive" alt="Bucket Poilcy">
-: <img src="" class="img-responsive" alt="CloudFront Distribution">
-: <img src="" class="img-responsive" alt="Distribution Domian Name">
+![distribution_domian_name_access](images/Distribution-Domian-Name-Access.jpg)
 
 
 
