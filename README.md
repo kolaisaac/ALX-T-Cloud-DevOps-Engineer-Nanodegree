@@ -74,3 +74,4 @@ The files included are:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Bats are the only mammal that can actually fly
 
+*NOTE:* **Resources were deleted after the project was graded**
